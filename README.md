@@ -1,4 +1,4 @@
-**Exploratory Data Analysis of 2021 Census Data Project (R &amp; Quarto)**
+# **Exploratory Data Analysis of 2021 Census Data Project (R &amp; Quarto)**
 
 This is an explolratory DATA analysis of the 2021 Census data from the UK government for a University assignment. I chose to explore the whether there was a disparity in incomes amnong ethnicites and focus on the variables ethinicty, income and higher education. 
 
