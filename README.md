@@ -15,18 +15,19 @@ This is an explolratory analysis of the 2021 Census data from the UK government.
 
 ## Some Screengrabs Exploring the Data
 
+<img width="1440" alt="Screenshot 2025-02-03 at 02 37 41" src="https://github.com/user-attachments/assets/0217b6ed-e912-4ed6-b6f7-2694340aa428" />
+
+
 <img width="1436" alt="Screenshot 2025-02-03 at 02 13 43" src="https://github.com/user-attachments/assets/01cc5f20-1d42-489c-a3af-09778b823560" />
 
 
-<img width="1440" alt="Screenshot 2025-02-03 at 02 31 55" src="https://github.com/user-attachments/assets/899596e5-675b-4cdc-b5b0-b11488d31b36" />
-
-
-<img width="1440" alt="Screenshot 2025-02-03 at 02 30 18" src="https://github.com/user-attachments/assets/46d21d43-e825-4d0a-884a-c5ca33ee358c" />
+<img width="1428" alt="Screenshot 2025-02-03 at 02 38 22" src="https://github.com/user-attachments/assets/2ef2d8a9-1d36-4608-a77f-570be7c322ab" />
 
 
 <img width="1440" alt="Screenshot 2025-02-03 at 02 14 11" src="https://github.com/user-attachments/assets/f7d14646-5380-4d97-9d65-8fb0a5c07032" />
 
 
+<img width="1440" alt="Screenshot 2025-02-03 at 02 30 18" src="https://github.com/user-attachments/assets/1fd892f0-1b43-485f-b47c-ac64e31d4011" />
 
 ## Conclusion 
 
