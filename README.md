@@ -1,6 +1,6 @@
-# **Exploratory Data Analysis of 2021 Census Data Project (R &amp; Quarto)**
+# **Exploratory Data Analysis & Visualisation of 2021 Census Data Project (R &amp; Quarto)**
 
-This is an explolratory data analysis of the 2021 Census data from the UK government for a University assignment. I chose to explore the whether there was a disparity in incomes amnong ethnicites and focus on the variables ethinicty, income and higher education. 
+This is an explolratory data analysis and visualisation of the 2021 Census data from the UK government for a University assignment. I chose to explore the whether there was a disparity in incomes amnong ethnicites and focus on the variables ethinicty, income and higher education. 
 
 I used R and Quarto - you can find the code in my repo. 
 
@@ -15,7 +15,7 @@ I used R and Quarto - you can find the code in my repo.
 
 
 
-## Some Screengrabs Exploring the Data
+## Some Screengrabs Exploring the Data & Data Visualisations
 
 <img width="1440" alt="Screenshot 2025-02-03 at 02 37 41" src="https://github.com/user-attachments/assets/0217b6ed-e912-4ed6-b6f7-2694340aa428" />
 
@@ -26,10 +26,11 @@ I used R and Quarto - you can find the code in my repo.
 <img width="1428" alt="Screenshot 2025-02-03 at 02 38 22" src="https://github.com/user-attachments/assets/2ef2d8a9-1d36-4608-a77f-570be7c322ab" />
 
 
+<img width="1440" alt="Screenshot 2025-02-03 at 02 30 18" src="https://github.com/user-attachments/assets/1fd892f0-1b43-485f-b47c-ac64e31d4011" />
+
+
 <img width="1440" alt="Screenshot 2025-02-03 at 02 14 11" src="https://github.com/user-attachments/assets/f7d14646-5380-4d97-9d65-8fb0a5c07032" />
 
-
-<img width="1440" alt="Screenshot 2025-02-03 at 02 30 18" src="https://github.com/user-attachments/assets/1fd892f0-1b43-485f-b47c-ac64e31d4011" />
 
 ## Conclusion 
 
